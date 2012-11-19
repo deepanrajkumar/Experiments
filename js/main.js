@@ -31,4 +31,9 @@ $(document).ready(function () {
             $(this).parent().parent().prev().removeClass('selected');
         }
     });
+	
+	//Empty Content -- Jquery 
+	
+	$(".empty td:empty").css("background","#0F0").text("This is all Empty")
+	$(".empty").find('td').addClass('hi');
 });
