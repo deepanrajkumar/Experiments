@@ -32,8 +32,15 @@ $(document).ready(function () {
         }
     });
 	
+<<<<<<< HEAD
 	//Empty Content -- Jquery 
 	
 	$(".empty td:empty").css("background","#0F0").text("This is all Empty")
 	$(".empty").find('td').addClass('hi');
+=======
+	    if ($(".size-information td").is(":empty")) {
+        $(".size-information th:nth-child(2)").hide();
+        $(".size-information td:nth-child(2)").hide();
+    }
+>>>>>>> Empty JQ snippet added
 });
