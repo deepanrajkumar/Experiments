@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<bank>
+  <img>
+    <src>images/gallery/1.jpg</src>
+    <title>Deepan rajkumar</title>
+    <caption>Mysore palace</caption>
+  </img>
+  <img>
+    <src>images/gallery/2.jpg</src>
+    <title>My Friends</title>
+    <caption>A lake view in Kerala</caption>
+  </img>
+  <img>
+    <src>images/gallery/2-1.jpg</src>
+    <title>Graduation Day</title>
+    <caption>My College Roomates at the Graduation Day</caption>
+  </img>
+  <img>
+    <src>images/gallery/2-2.jpg</src>
+    <title>College Trip</title>
+    <caption>Trip to college on Gettogether 2011</caption>
+  </img>
+  <img>
+    <src>images/gallery/2-4.jpg</src>
+    <title>Marina Beach</title>
+    <caption>Trip with office guys to Marina Beac</caption>
+  </img>
+   <img>
+    <src>images/gallery/2-5.jpg</src>
+    <title>Sujayath and Me</title>
+    <caption>Resting on the day of Gettogether</caption>
+  </img>  
+  <img>
+    <src>images/gallery/3.jpg</src>
+    <title>Athirapally Falls</title>
+    <caption>College tour Kerala</caption>
+  </img>
+  <img>
+    <src>images/gallery/4.jpg</src>
+    <title>Gokul Rajan</title>
+    <caption>My Friend gokul taking rest on tree</caption>
+  </img>
+  <img>
+    <src>images/gallery/5.jpg</src>
+    <title>Sivamoorthy</title>
+    <caption>Lost in thoughts</caption>
+  </img>
+  <img>
+    <src>images/gallery/6.jpg</src>
+    <title>Gokul and Krishna</title>
+    <caption>My brother and gokul standing in college</caption>
+  </img>
+     <img>
+    <src>images/gallery/6-1.jpg</src>
+    <title>Graduation Finally !!</title>
+    <caption>Me getting my B.E Degree on Graduation Day</caption>
+  </img>
+  <img>
+    <src>images/gallery/7.jpg</src>
+    <title>Old Town Cuddalore Road Trip</title>
+    <caption>Having a Fun Rope Boat ride</caption>
+  </img>
+  <img>
+    <src>images/gallery/7-1.jpg</src>
+    <title>KFC Yumm time</title>
+    <caption>Treat on KFC</caption>
+  </img>
+  <img>
+    <src>images/gallery/8.jpg</src>
+    <title>Bangalore Trip</title>
+    <caption>Chat masala in bangalore, Me and siva</caption>
+  </img>
+  <img>
+    <src>images/gallery/9.jpg</src>
+    <title>College Class</title>
+    <caption>Just another day in College</caption>
+  </img>
+  <img>
+    <src>images/gallery/11.jpg</src>
+    <title>Our HOD and Me</title>
+    <caption>Taken During College farewell day</caption>
+  </img>
+  <img>
+    <src>images/gallery/12.jpg</src>
+    <title>Second year Trip</title>
+    <caption>On railway tracks standing next to passing Train</caption>
+  </img>
+  <img>
+    <src>images/gallery/13.jpg</src>
+    <title>Rap Time</title>
+    <caption>Final year tour Mysore</caption>
+  </img>
+  <img>
+    <src>images/gallery/14.jpg</src>
+    <title>Gokul and Thiruvarasan</title>
+    <caption>Silver beach of cuddalore</caption>
+  </img>
+  <img>
+    <src>images/gallery/14-1.jpg</src>
+    <title>Myself and Rajasegar</title>
+    <caption>St.Thomas Mount Chennai</caption>
+  </img>  
+  <img>
+    <src>images/gallery/15.jpg</src>
+    <title>My self</title>
+    <caption>Mysore palace</caption>
+  </img>
+  <img>
+    <src>images/gallery/16.jpg</src>
+    <title>Me and Gokul</title>
+    <caption>Kerala</caption>
+  </img>
+  <img>
+    <src>images/gallery/17.jpg</src>
+    <title>Boat Ride</title>
+    <caption>Kerala Final year trip</caption>
+  </img>
+  <img>
+    <src>images/gallery/18.jpg</src>
+    <title>Office Staffs and Me</title>
+    <caption>Me,Paramaguru,Mustafa and Arun</caption>
+  </img>
+  <img>
+    <src>images/gallery/19.jpg</src>
+    <title>Sujayath</title>
+    <caption>Suji in Surprise</caption>
+  </img>
+  <img>
+    <src>images/gallery/20.jpg</src>
+    <title>Riding near to home </title>
+    <caption>Riding Bike</caption>
+  </img>
+  <img>
+    <src>images/gallery/21.jpg</src>
+    <title>Temple Tiruvannamalai</title>
+    <caption>Temple visit in Tiruvannamalai</caption>
+  </img>
+  <img>
+    <src>images/gallery/22.jpg</src>
+    <title>Class room</title>
+    <caption>Just another day in college</caption>
+  </img>
+  <img>
+    <src>images/gallery/23.jpg</src>
+    <title>School Friends</title>
+    <caption>Santhosh,Yogesh,Hari,Sundaram,Me and My Brother</caption>
+  </img>
+  <img>
+    <src>images/gallery/24.jpg</src>
+    <title>My Brother</title>
+    <caption>Krishna Kumar</caption>
+  </img>
+  <!--<img> 		<src>images/gallery/1.jpg</src> 		<title>The End</title> 		<caption><![CDATA[...has <strong>not</strong> been <a href="http://www.dhteumeuleu.com/">written</a> yet]]></caption> 		<link>http://www.dhteumeuleu.com/</link> 		<target>_blank</target> 	</img> --></bank>
