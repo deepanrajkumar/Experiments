@@ -1,0 +1,6 @@
+server {  
+    listen      80;
+    listen      443; # add this to block HTTPS access
+    server_name 159.65.155.12;
+    return      404;
+}
